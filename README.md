@@ -1,13 +1,10 @@
-## Interface engineer
+## Engineer
 
 <div align="center">
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/hero?username=luaaa7&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F281113833%3Fu%3D33f7c8d468be73a488962231f8ef927bdffff7fb%26v%3D4" alt="luaaa7 hero visual" />
 </p>
-
-<h1>luaaa7</h1>
-<p><b>Frontend or full-stack engineer</b></p>
 
 </div>
 
