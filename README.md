@@ -44,5 +44,3 @@
 </p>
 
 <a href="https://github.com/luaaa7">GitHub</a>
-
-<p align="center"><sub>luaaa7 · Frontend profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
